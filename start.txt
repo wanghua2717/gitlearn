@@ -1,2 +1,3 @@
 first init
-conflict test master
+
+conflict test master feature1 confict fixed
