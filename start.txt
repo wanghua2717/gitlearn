@@ -2,4 +2,4 @@ first init
 
 conflict test master feature1 confict fixed
 
-idea submit 2
+idea submit 3
